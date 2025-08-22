@@ -1,7 +1,7 @@
 #  Documentação do Projeto – Mapeamento de Comportamento de Transações por Conta
 
  **Documentação Pública** |  **Código Privado**  
-⚠ **Atenção:** este repositório contém somente a documentação do projeto.  
+ **Atenção:** este repositório contém somente a documentação do projeto.  
 O código-fonte é privado e não está disponível para acesso público.  
 
 ---
