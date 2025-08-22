@@ -96,6 +96,13 @@ O código foi desenvolvido para auxiliar em **fraude detection** e **mapeamento 
 
 ---
 
+**Comparação de Clusters**
+  - A tabela abaixo mostra a diferença entre os clusters encontrados pelo **Autoencoder + KMeans**, evidenciando variáveis com maior impacto:
+
+![Comparação de clusters](https://github.com/user-attachments/assets/5f7f0779-ca73-45f0-9ad0-5682a080bf09)
+
+
+---
 ## 📁 Saídas Geradas
 - **Modelos**
   - `modelo_autoencoder.keras`
