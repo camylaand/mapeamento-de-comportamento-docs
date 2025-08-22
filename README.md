@@ -1,12 +1,12 @@
-# 📌 Documentação do Projeto – Mapeamento de Comportamento de Transações por Conta
+#  Documentação do Projeto – Mapeamento de Comportamento de Transações por Conta
 
-📖 **Documentação Pública** | 🔒 **Código Privado**  
-⚠️ **Atenção:** este repositório contém somente a documentação do projeto.  
+ **Documentação Pública** |  **Código Privado**  
+⚠ **Atenção:** este repositório contém somente a documentação do projeto.  
 O código-fonte é privado e não está disponível para acesso público.  
 
 ---
 
-## 📝 Visão Geral
+##  Visão Geral
 Este projeto implementa um pipeline de **pré-processamento de dados, redução de dimensionalidade, clusterização e análise estatística** para **detectar anomalias em transações financeiras**.  
 
 A abordagem combina:
@@ -19,7 +19,7 @@ O código foi desenvolvido para auxiliar em **fraude detection** e **mapeamento 
 
 ---
 
-## 📂 Estrutura Geral
+##  Estrutura Geral
 - **Pré-processamento**
   - Conversão de datas e criação de variáveis derivadas (dia da semana, fim de semana, faixa horária).
   - Exclusão de colunas irrelevantes (`transacao_id`, `conta_destino_id`).
@@ -52,7 +52,7 @@ O código foi desenvolvido para auxiliar em **fraude detection** e **mapeamento 
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Linguagem**: Python 3  
 - **Bibliotecas principais**:
   - `pandas`, `numpy` → Manipulação de dados
@@ -103,7 +103,7 @@ O código foi desenvolvido para auxiliar em **fraude detection** e **mapeamento 
 
 
 ---
-## 📁 Saídas Geradas
+##  Saídas Geradas
 - **Modelos**
   - `modelo_autoencoder.keras`
   - `modelo_encoder.keras`
